@@ -1,0 +1,37 @@
+.container {
+  margin-left: 3rem;
+}
+
+.quote {
+  font-size: 2rem;
+  font-weight: 200;
+  letter-spacing: 0.5rem;
+  width: 95rem;
+  height: 12rem;
+  line-height: 2.5rem;
+}
+
+.author {
+  width: 95rem;
+  font-size: 1.5rem;
+  font-weight: 100;
+  letter-spacing: 0;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid black;
+}
+
+.next {
+  display: block;
+  text-decoration: underline;
+  background-color: inherit;
+  color: inherit;
+  border: none;
+  cursor: crosshair;
+  transition: all 0.5s;
+  font-size: 2rem;
+  margin-top: 10rem;
+}
+
+.next:hover {
+  color: #fff;
+}

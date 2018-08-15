@@ -1,0 +1,20 @@
+.container {
+  position: absolute;
+  width: 100%;
+  bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footnote {
+  margin-left: 3rem;
+}
+
+.quotesondesign {
+  color: inherit;
+}
+
+.github {
+  margin-right: 3rem;
+  color: inherit;
+}

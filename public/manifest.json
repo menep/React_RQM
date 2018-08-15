@@ -1,0 +1,11 @@
+{
+  "short_name": "React Random Quote Machine",
+  "name": "Random Quote Machine project with React",
+  "icons": [
+    {
+
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone"
+}
